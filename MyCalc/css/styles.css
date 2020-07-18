@@ -1,0 +1,56 @@
+input[type=text] {
+	background-color: #dbd5d3;
+	border: none;
+	color: black;
+	text-align: right;
+	font-size: 1.8em;
+	padding-top: 23px;
+	font-family: "Courier New", Times, Monospace;
+	font-weight: bold;
+}
+
+body { margin: 0 }
+form { margin: 0 }
+
+.firstrow {
+	background-color: #686867;
+	border: none;
+	font-size: 1.0em;
+	color: white;
+	font-family: "Courier New", Times, Monospace;
+}
+
+.firstrow:hover{
+	background-color: #8e8e8d;
+}
+
+.remrows {
+	background-color: #B4B2AF;
+	border: none;
+	font-size: 1.0em;
+	color: white;
+	font-family: "Courier New", Times, Monospace;
+
+}
+
+.remrows:hover {
+	background-color: #9b9995;
+}
+
+.operation {
+	background-color: #fc970d;
+	border: none;
+	font-size: 1.0em;
+	color: white;
+	font-family: "Courier New", Times, Monospace;
+	font-weight: bold;
+
+}
+
+.operation:hover {
+	background-color: #fa9f23;
+}
+
+html{
+	background-color: #484645;
+}
